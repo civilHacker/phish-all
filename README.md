@@ -27,3 +27,8 @@ $ git clone https://github.com/reyspeed/phish-all
 $ cd phish-all
 
 $ bash croot.sh
+
+
+
+_________________________________________
+DO IT AS LEGAL!
