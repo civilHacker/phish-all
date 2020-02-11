@@ -1,14 +1,11 @@
 # phish-all
-Phising tool
-____________C̟I̟V̟I̟L ̟H̟A̟C̟K̟E̟R̟___________
-NEW HACKING....
-* PUBG 
-* FREE FIRE 
-* INSTAGRAM
-ETC...
- •TO DO•••••
- 
- 
+
+Cara menggunakan dan persyaratan
+1.harus connect ngorok
+2.dilarang Recode
+3.kalau bingung cara connect ngroh silahkan liat YouTube
+4.BY.MR.CROOT
+
 $ pkg update && pkg upgrade
 
 $ pkg install python2
@@ -29,7 +26,7 @@ $ pkg install php
 
 $ pkg install git
 
-$ git clone https://github.com/civil hacker/phish-all
+$ git clone https://github.com/reyspeed/phish-all
 
 $ cd phish-all
 
