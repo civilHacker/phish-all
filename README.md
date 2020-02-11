@@ -6,7 +6,9 @@ NEW HACKING....
 * FREE FIRE 
 * INSTAGRAM
 ETC...
-____________C̟I̟V̟I̟L ̟H̟A̟C̟K̟E̟R̟___________
+ •TO DO•••••
+ 
+ 
 $ pkg update && pkg upgrade
 
 $ pkg install python2
