@@ -1,10 +1,6 @@
 # phish-all
 
-Cara menggunakan dan persyaratan
-1.harus connect ngorok
-2.dilarang Recode
-3.kalau bingung cara connect ngroh silahkan liat YouTube
-4.BY.MR.CROOT
+______CIVIL HACKER________
 
 $ pkg update && pkg upgrade
 
